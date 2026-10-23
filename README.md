@@ -49,3 +49,15 @@ devops     : [Git/GitHub, Podman, Linux, Makefile, CI/CD]
 - 💼 GitHub: **[@omingpradnya5-maker](https://github.com/omingpradnya5-maker)**
 - 👥 Komunitas: **[Central Saga](https://github.com/Central-Saga)**
 - 📂 Repositori saya: **[github.com/omingpradnya5-maker?tab=repositories](https://github.com/omingpradnya5-maker?tab=repositories)**
+
+### 🔗 Ekosistem (saling terhubung)
+
+| Tautan | Isi |
+|---|---|
+| 🌐 **Portfolio (live)** | https://omingpradnya5-maker.github.io/portfolio/ |
+| 💻 **Sumber portfolio** | https://github.com/omingpradnya5-maker/portfolio |
+| 📋 **PRD lengkap v1.0** | [PRD-Timesheet-Billing-Lengkap.md](https://github.com/omingpradnya5-maker/prd-timesheet-billing/blob/main/PRD-Timesheet-Billing-Lengkap.md) |
+| 🗂️ **Repo PRD** | https://github.com/omingpradnya5-maker/prd-timesheet-billing |
+| 👤 **README profil ini** | https://github.com/omingpradnya5-maker/omingpradnya5-maker |
+
+<sub>Website → profil GitHub → repo PRD saling tertaut, sehingga recruiter/klien bisa berpindah konteks tanpa kehilangan jejak.</sub>
